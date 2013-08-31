@@ -6,4 +6,6 @@
   <packaging>war</packaging>
   <name>GitHubTutorial</name>
   <description>GitHubTutorial</description>
+  <dependency>
+  </dependency>
 </project>
