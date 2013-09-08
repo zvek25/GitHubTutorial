@@ -7,5 +7,6 @@ public class FirstClass {
 		System.out.println("Added 3rd line");
 		System.out.println("Added 4th line");
 		System.out.println("Added 5th line");
+		System.out.println("Added 6th line");
 	}
 }
